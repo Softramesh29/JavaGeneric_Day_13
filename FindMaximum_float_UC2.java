@@ -18,6 +18,6 @@ public class FindMaximum_float_UC2 {
 	}
 	public static void main(String [] args) {
 		FindMaximum_int_UC1 findMaximum_int_UC1 = new FindMaximum_int_UC1();
-		findMaximum_int_UC1.findMax(1.35, 3.64, 2.54);
+		findMaximum_int_UC1.findMax((float)1.35, (float)3.64,(float) 2.54);
 	}
 }
